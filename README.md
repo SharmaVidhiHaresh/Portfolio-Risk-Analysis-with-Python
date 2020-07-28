@@ -3,14 +3,14 @@
 ## Return Analysis:
 There is has been enough evidence that stock returns and hedge fund indices are not normally distributed. Thus,the Gaussian model cannot be applied without considering for the skewness and kurtosis.							
 Module covers extraction of returns from a csv file, and then computation of volitality,the skewness and kurtoisis of the returns for each fund.						
-Implication: positive excess kurtosis and the negative skewness suggest that large losses are likely
+Implication: positive excess kurtosis and the negative skewness suggest that large losses are likely.
 
 
 ## Risk analysis:
 The modules assesses and analyzes risk of respective funds by the computating  maximum drawndown and VaR analysis.
 
   ### Maximum Drawndown Analysis:
-  Maximum Drawdown is the maximum loss from the previous high to the subsequent low.Alternatively, drawdown can be also measured in terms of the longest period the secuirty has gone between two peak prices.A4
+  Maximum Drawdown is the maximum loss from the previous high to the subsequent low.Alternatively, drawdown can be also measured in terms of the longest period the secuirty has gone between two peak prices.
 
   ### Value at risk modelling:
   Value at risk (VaR) is a measure of the risk of loss for investments. It estimates how much a set of investments might lose (with a given probability), given normal market conditions, in a set time period such as a day.
