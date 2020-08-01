@@ -1,6 +1,6 @@
 # Portfolio & Investment Analysis with Python
 
-## Risk analysis:
+## Risk Analysis
   ### Skewness & Kurtosis
 There is has been enough evidence that stock returns and hedge fund indices are not normally distributed. Thus,the Gaussian model cannot be applied without considering for the skewness and kurtosis.Computating of volitality,the skewness and kurtoisis of the returns for each fund provides us	insights about the probability of losses made,as positive excess kurtosis and the negative skewness suggest that large losses are likely.
 
@@ -14,5 +14,7 @@ There is has been enough evidence that stock returns and hedge fund indices are 
   #### Parametric Gaussian Model
   #### Cornish-Fisher (Semi-Parametric)
 
+## Extracting returns:
+We would study the divergence between the returns offered by large and small cap stocks over past decades by compuating the monthly & annualized returns for stocks achieving the 10th and 90th percentaile of market capitalization in the dataset.
   
 
