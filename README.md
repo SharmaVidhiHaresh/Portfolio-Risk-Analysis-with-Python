@@ -4,7 +4,7 @@
   ### Skewness & Kurtosis
 There is has been enough evidence that stock returns and hedge fund indices are not normally distributed. Thus,the Gaussian model cannot be applied without considering for the skewness and kurtosis.Computating of volitality,the skewness and kurtoisis of the returns for each fund provides us	insights about the probability of losses made,as positive excess kurtosis and the negative skewness suggest that large losses are likely.
 
-<img src="Output of our analysis/Skewness for hedge fund indices.png" > 
+< img src="Output of our analysis/Skewness for hedge fund indices.png" > 
     
   ### Maximum Drawndown Analysis:
   Maximum Drawdown is the maximum loss from the previous high to the subsequent low.Alternatively, drawdown can be also measured in terms of the longest period the secuirty has gone between two peak prices.
