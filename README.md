@@ -14,7 +14,7 @@ There is has been enough evidence that stock returns and hedge fund indices are 
   #### Parametric Gaussian Model
   #### Cornish-Fisher (Semi-Parametric)
   
- <img src="/Skewness for hedge fund indices.png">
+ <img src="Output of our analysis/Skewness for hedge fund indices.png">
 
 ## Extracting returns:
 We would study the divergence between the returns offered by large and small cap stocks over past decades by compuating the monthly & annualized returns for stocks achieving the 10th and 90th percentaile of market capitalization in the dataset.
